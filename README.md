@@ -39,7 +39,6 @@ TaskFlow is a modern, responsive, Trello-like task management application built 
 
 ![image alt]([image_url](https://github.com/SachinDilanka/TaskFlow-Task-management-Application/blob/main/Screenshot%202026-09-09%20233520.png?raw=true))
 
-
 ![image alt]([image_url](https://github.com/SachinDilanka/TaskFlow-Task-management-Application/blob/main/Screenshot%202026-09-09%20233709.png?raw=true))
 
 ![image alt]([image_url](https://github.com/SachinDilanka/TaskFlow-Task-management-Application/blob/main/Screenshot%202026-09-09%20233731.png?raw=true))
@@ -47,7 +46,8 @@ TaskFlow is a modern, responsive, Trello-like task management application built 
 ![image alt]([image_url](https://github.com/SachinDilanka/TaskFlow-Task-management-Application/blob/main/Screenshot%202026-09-09%20233848.png?raw=true))
 
 ![image alt]([image_url](https://github.com/SachinDilanka/TaskFlow-Task-management-Application/blob/main/Screenshot%202026-09-09%20234205.png?raw=true))
----
+
+
 
 ## Project Structure
 
